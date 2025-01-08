@@ -1,1 +1,2 @@
 Hello world!
+Trying commit message in VSCode
